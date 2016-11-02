@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 me/
 build/
 bin/
 node_modules/
 vendor/
+=======
+cache
+vendor
+>>>>>>> ee016876aff5cb83faa59818ca83280e8e4cf3cb

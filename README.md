@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Web design and usability for the programmer (design)
 ===================
 
@@ -64,3 +65,10 @@ v0.1.0 (2016-10-07)
  .                                                             
 ..:  Copyright (c) 2015 - 2016 Mikael Roos, me@mikaelroos.se   
 ```                                                            
+=======
+# Anax Flat
+
+[![Join the chat at https://gitter.im/mosbth/design](https://badges.gitter.im/mosbth/design.svg)](https://gitter.im/mosbth/design?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Flat CMS based on Anax.
+>>>>>>> ee016876aff5cb83faa59818ca83280e8e4cf3cb
