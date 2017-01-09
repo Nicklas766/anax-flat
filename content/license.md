@@ -1,4 +1,4 @@
 Licenses and Terms
 ==============================================
 
-[Anax Flat is available on GitHub](https://github.com/canax/anax-flat) using the [MIT license](https://github.com/canax/anax-flat/blob/master/LICENSE).
+[Anax Flat finns på GitHub](https://github.com/Nicklas766/anax-flat) som använder [MIT license](https://github.com/Nicklas766/anax-flat/blob/master/license.md).

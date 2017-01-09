@@ -1,10 +1,23 @@
-About this site
+---
+views:
+    sidebar2:
+        region: sidebar-left1
+        template: default/content
+        data:
+            meta:
+                type: content
+                route: block/menuLeft
+
+
+...
+
+Om sidan
 ==============================================
 
-The primary focus of this site is to:
+Detta är min hemsida för design kursen:
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Jag har ett repo för denna sida du hittar den på, [repo](https://github.com/Nicklas766/anax-flat), [theme](https://github.com/Nicklas766/anax-flat-theme).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Denna sida är skapad av [Nicklas Envall](http://www.student.bth.se/~nien16/dbwebb-kurser/htmlphp/me/kmom06/me6/me.php) (nicklas766@live.se).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se). Nicklas
+![memebild](../htdocs/img/thebest.jpg)

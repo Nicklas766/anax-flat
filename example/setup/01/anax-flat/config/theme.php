@@ -21,10 +21,17 @@ return [
             "favicon"       => "img/favicon/favicon_256x256.png",
 
             // Style and stylesheets
+<<<<<<< HEAD:example/setup/01/anax-flat/config/theme.php
             //"stylesheets" => ["css/default.min.css"],
             //"stylesheets" => ["css/style.min.css"],
             "stylesheets" => [
                 "css/style.min.css",
+=======
+            // "stylesheets" => ["css/default.min.css"],
+            // "stylesheets" => ["css/style.min.css"],
+            "stylesheets" => [
+                "css/color.min.css",
+>>>>>>> 49be8b6b908cb04ca7791e12da3b7a907dc0db43:config/theme.php
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
             ],
             "styleInline" => null,
@@ -66,6 +73,17 @@ return [
             ],
             "sort" => 2
         ],
+<<<<<<< HEAD:example/setup/01/anax-flat/config/theme.php
+=======
+
+        [
+            "region" => "profile",
+            "template" => "default/navbar-max",
+            "data" => [],
+            "sort" => -1
+        ],
+
+>>>>>>> 49be8b6b908cb04ca7791e12da3b7a907dc0db43:config/theme.php
         [
             "region" => "navbar2",
             "template" => "default/navbar",
@@ -79,7 +97,7 @@ return [
                 "class"  => "footer-column",
                 "columns" => [
                     [
-                        "contentRoute" => "block/footer-col-1",
+                        "contentRoute" => "block/byline",
                     ],
                     [
                         "contentRoute" => "block/footer-col-2",
